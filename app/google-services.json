@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922714586471",
+    "project_id": "fir-mascotas-bda00",
+    "storage_bucket": "fir-mascotas-bda00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922714586471:android:48417244eccfae96bd03c2",
+        "android_client_info": {
+          "package_name": "com.example.firebasemascotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922714586471-5ll17o2mubbqrbo1lmm93k9l43dld9a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0wezittkAiupOmgOcmilKJxqDOuCztw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922714586471-5ll17o2mubbqrbo1lmm93k9l43dld9a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
